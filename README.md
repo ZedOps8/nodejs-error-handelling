@@ -19,7 +19,7 @@
 </ol>
 
 <pre>
-<code>git clone https://github.com/your-username/nodejs-restful-api-practice.git</code>
+<code>git clone https://github.com/ZedOps8/nodejs-error-handelling.git</code>
 </pre>
 
 <ol start="2">
